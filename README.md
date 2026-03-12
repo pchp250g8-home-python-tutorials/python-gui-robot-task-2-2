@@ -5,7 +5,7 @@ The robot's final position is marked with a red house.
 The task is to move the robot from its starting position to its final position. 
 Along the way, color in the cells marked with an small orange square (see figures). 
 Solve the problem for all robot environments (write a common code).
-The solution of the task is located in the file "Task-2-1.py".
+The solution of the task is located in the file "Task-2-2.py".
 
 RobotTask-2-2. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
 Поле робота имеет размеры: длина 6 клеток, ширина 6 клетки. Оно миеет синие стены по периметру. 
@@ -15,7 +15,7 @@ RobotTask-2-2. Занятия по Python. Исполнитель Робот. П
 Требуется переместить исполнителя из начального положения в конечное. 
 По пути следования закрасить клетки помеченные малым оранжевым кватратом. (см. рис.). 
 Решить задачу для всех обстановок робота (написать общий код).
-Решение задачи находится в файле "Task-2-1.py".
+Решение задачи находится в файле "Task-2-2.py".
 
 
 
